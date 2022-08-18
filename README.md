@@ -1,5 +1,6 @@
-#### Hi there 👋
-### My name is Andressa Valentim, and i'm a front-end developer and student
+
+## Olá, pessoa! 
+My name is Andressa Valentim, and i'm a front-end developer and student
 
 
 
@@ -13,7 +14,9 @@ About me:
 
 ##
 
+
 <div style="display: inline_block"><br>
+  my current stack is:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
