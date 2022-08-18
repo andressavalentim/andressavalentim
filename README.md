@@ -8,7 +8,7 @@ My name is Andressa Valentim, and i'm a front-end developer and student
 About me:
 
 - 👩🏿‍💻 I’m currently working and studying javascript and react.js
-- 💡 I enjoy talking about social issues, and my main goal is to help people like me become developers
+- 💡 I enjoy talking about social issues, and my main goal is to help people like me to become developers
 - 😄 My pronouns are ela/her
 - 🎮 I love playing video game! (we can complaing about Overwatch while we code together!)
 
